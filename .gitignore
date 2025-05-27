@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# macOS junk
+.DS_Store
+
+# PyQt UI build files
+*.ui
+*.qrc
+*.pyc
+
+# VSCode / IDE folders
+.vscode/
+.idea/
+
+# Logs or runtime data
+*.log
+
+# Test output or uploads
+test_files/
+output/
+uploads/
