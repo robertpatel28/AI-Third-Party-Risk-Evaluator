@@ -25,6 +25,6 @@ venv/
 *.log
 
 # Test output or uploads
-test_files/
+test-files/
 output/
 uploads/
