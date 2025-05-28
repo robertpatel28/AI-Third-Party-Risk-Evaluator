@@ -35,7 +35,7 @@ StructureGrade AI is an intelligent multi-agent application designed to evaluate
 
 ---
 
-<h4 align="center">🔹 File Manager View</h4>
+<h4 align="center">🔹 Manager View</h4>
 <p align="center">
   <img src="assets/manager_tab_img.png" alt="Manager View" width="700"/>
 </p>
