@@ -43,7 +43,7 @@ Upload files, evaluate, and monitor agent pipeline status.
 Progress bar during evaluation.
 <img src="assets/run_popup.png" alt="Progress Window Starting" width="700"/>
 
---
+---
 
 ### 🔹 Progress Popup (100%)
 Progress bar post evaluation.
